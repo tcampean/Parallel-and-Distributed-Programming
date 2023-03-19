@@ -1,0 +1,42 @@
+Test1
+1000
+normal threads
+row parsing
+5 threads
+1493 ms
+
+Test2
+1000
+normal threads
+column parsing
+5 threads
+1515 ms
+
+Test3
+1000
+normal threads
+kth parsing
+5 threads
+1461 ms
+
+Test4
+1000
+threadpool
+row parsing
+5 threads
+1713 ms
+
+Test5
+1000
+threadpool
+column parsing
+5 threads
+
+Test6
+1000
+threadpool
+kth parsing
+1480 ms
+
+
+
